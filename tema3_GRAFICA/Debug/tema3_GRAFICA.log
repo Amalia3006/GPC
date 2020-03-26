@@ -1,0 +1,4 @@
+﻿  tema3_GRAFICA.cpp
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\gpc\tema3_GRAFICA\tema3_GRAFICA.cpp(982,21): warning C4930: 'CVector sus(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\gpc\tema3_GRAFICA\tema3_GRAFICA.cpp(983,21): warning C4930: 'CVector stanga(void)': prototyped function not called (was a variable definition intended?)
+  tema3_GRAFICA.vcxproj -> C:\Users\Amalia\Desktop\facultate an 3 sem 2\gpc\tema3_GRAFICA\Debug\tema3_GRAFICA.exe
